@@ -1,2 +1,2 @@
-FROM tomcat:8-alpine
+FROM tomcat:latest
 COPY ./target/* /usr/local/tomcat/webapps/
