@@ -1,2 +1,0 @@
-# boxfuse-configs
-
