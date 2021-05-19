@@ -1,3 +1,3 @@
 {
-    "insecure-registries" : ["http://13.51.177.184:8123"]
+    "insecure-registries" : ["http://13.53.212.54:8123"]
 }
